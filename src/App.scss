@@ -1,0 +1,12 @@
+.app {
+  min-height: 100vh;
+  margin: 1rem;
+
+  &__header {
+    margin: 0.5rem 0;
+  }
+
+  &__instruction {
+    margin: 0;
+  }
+}
